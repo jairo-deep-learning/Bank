@@ -1,0 +1,2 @@
+# Bank
+Many companies directs marketing campaings to all their leads. However, the effect of this campaings could be different from one potencial customer to other. So, what if marketing teams could have the possibility to predict which customer will buy from the mass of clients???  well, in this analysis we try to create a model that allow us to predict who is going to buy a bank service and who is not.
